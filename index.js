@@ -19,10 +19,10 @@ function sovrascrivere(){
 };
 
 function aggiungere(){
-    h1.style.color="green";
+    h1.className='nuovocolore';
 };
 function togliere(){
-    h1.style.color="";
+    h1.className="";
 };
 function aggiungeP(){
     nP.innerHTML="Questo e un paragrafo  fatto in JavaScript"

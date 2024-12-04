@@ -4,6 +4,9 @@ body{
     font-size: larger;
    
 }
+.nuovocolore{
+    color: deeppink;
+}
 p{
     color: white;
     background-color: black;
