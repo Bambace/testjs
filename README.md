@@ -1,4 +1,4 @@
-#Test di Ingresso per seminario javascript avanzato.
+# Test di Ingresso per seminario javascript avanzato.
 ## Obiettivo:
 - Verificare la conoscenza dei concetti base di JavaScritp, in particolare mirato alla manipolazione del DOM e gestione di eventi
 
